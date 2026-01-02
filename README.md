@@ -12,5 +12,4 @@ npm install
 npm start
 
 #### Endpoints
-- GET / - Returns "Hello world"
-- GET /evening - Returns "Good evening"
+- GET /hello - Returns "Hello world"
